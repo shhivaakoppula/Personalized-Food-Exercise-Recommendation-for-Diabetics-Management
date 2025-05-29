@@ -95,8 +95,8 @@ The application addresses a real world healthcare challenge in the world : **emp
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/diabetes-management-app.git
-   cd diabetes-management-app
+   git clone https://github.com/shhivaakoppula/Personalized-Food-Exercise-Recommendation-for-Diabetics-Management.git
+   cd Personalized-Food-Exercise-Recommendation-for-Diabetics-Management
    ```
 2. Install dependencies:
 
