@@ -39,9 +39,6 @@ The application addresses a real world healthcare challenge in the world : **emp
 
 * Custom CSS is applied for a clean, accessible look with color-coded recommendation boxes and clear section headers.
 
-*(Mockups were initially sketched in PowerPoint/hand-drawn and translated into Streamlit layout.)*
-
-
 ## Project Planning and Research
 
 * Conducted research on diabetes management guidelines from reputable sources including Google Health, medical literature, and diabetes organizations.
