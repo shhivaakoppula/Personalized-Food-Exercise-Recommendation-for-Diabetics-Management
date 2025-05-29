@@ -124,7 +124,7 @@ README.md                       # This documentation
 
 ## References
 
-* Google Health
+* Google 
 * Diabetes organizations and guidelines
 * ChatGPT and DeepSeek for initial research and content generation
 * YouTube videos for exercise demonstrations
