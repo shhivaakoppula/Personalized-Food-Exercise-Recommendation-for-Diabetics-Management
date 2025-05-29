@@ -41,19 +41,19 @@ The application addresses a real world healthcare challenge in the world : **emp
 
   ### sample output Images from Web Apllication
 
-  ** 1. HOME PAGE **
+  **1. HOME PAGE**
   
   ![User Interface for Home Page](https://github.com/user-attachments/assets/56f0a4ae-319a-4b89-9af0-b770dcc6bdcd)
 
-  ** 2. PATIENT DETAILS **
+  **2. PATIENT DETAILS**
 
   ![User Interface for patient Details Entry](https://github.com/user-attachments/assets/7c5a85b1-ce6c-4c4e-9c40-954e88ef0eab)
 
-  ** 3. FOOD RECOMMENDATIONS **
+  **3. FOOD RECOMMENDATIONS IMAGES**
 
   ![Sample Food Recommendations](https://github.com/user-attachments/assets/2bf6c07e-1802-41c0-aab2-d1774f0f8e91)
 
-  ** 4. EXERCISE RECMMENDATIONS **
+  **4. EXERCISE RECMMENDATIONS IMAGES**
 
   ![Sample Exercises](https://github.com/user-attachments/assets/8ff7f4ae-1fa0-4e4f-9538-463526127e0f)
 
