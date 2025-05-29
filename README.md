@@ -154,5 +154,7 @@ README.md                       # This documentation
 
 Developed by SHIVA GOUD KOPPULA
 Email: shhivaagoudkoppula@gmail.com
+
 GitHub: https://github.com/shhivaakoppula
+
 LinkedIn: (https://linkedin.com/in/shhivaa-koppula)
