@@ -1,5 +1,5 @@
 # Personalized Food Exercise Recommendation for Diabetics Management
-### By offering individualized diet and exercise suggestions based on age, weight, and type of diabetes, this app assists persons with diabetes in managing their health. Constructed using the Streamlit library, it provides a user-friendly, data-driven platform to help people make better lifestyle decisions and enhance their wellbeing.
+### Helping people with diabetics to manage their health better way by providing personalized food and exercise Recommendations based on their age, weight, and diabetes type.Easy to use, informative, and backed by real data so everyone gets the right advice for their body.Built with The Streamlit library to deliver clean and interactive recommendations that actually make a difference in your life.
 
 ## Project Overview
 
